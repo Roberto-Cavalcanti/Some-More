@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Some More</string>
     <string name="digite_os_valores">Digite os valores:</string>
+    <string name="somar">Somar</string>
 </resources>
