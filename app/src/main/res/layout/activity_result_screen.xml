@@ -38,21 +38,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
-    <EditText
+    <TextView
         android:id="@+id/resultSoma"
-        android:layout_width="226dp"
-        android:layout_height="221dp"
+        android:layout_width="428dp"
+        android:layout_height="229dp"
         android:layout_marginStart="81dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="120dp"
         android:layout_marginEnd="104dp"
+        android:background="#FFF3B39F"
         android:ems="10"
         android:inputType="number"
-        android:text="14"
+        android:text="0"
         android:textAlignment="center"
-        android:textColor="#fff"
+        android:textColor="#000"
         android:textSize="150sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.445"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 

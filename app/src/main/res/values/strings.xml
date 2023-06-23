@@ -2,4 +2,6 @@
     <string name="app_name">Some More</string>
     <string name="digite_os_valores">Digite os valores:</string>
     <string name="somar">Somar</string>
+    <string name="segundoValor">número 2</string>
+    <string name="primeiroValor">número 1</string>
 </resources>
